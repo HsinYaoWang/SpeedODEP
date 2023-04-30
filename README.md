@@ -11,5 +11,5 @@ Precise antibiotic use for treating infectious diseases depends on antibiotic su
 
 Keywords: antibiotic susceptibility test (AST); Optically induced dielectrophoresis (ODEP); artificial intelligence (AI)
 
-![image](https://user-images.githubusercontent.com/39755203/235333168-45659608-59e5-4664-9c62-e441c2555624.png)
-![image](https://user-images.githubusercontent.com/39755203/235333187-39329fd9-e617-45fb-b205-fb4ae299c7f0.png)
+<img width="1405" alt="image" src="https://user-images.githubusercontent.com/39755203/235333221-35309479-02a6-4d96-a3d6-6f3b9d489fe2.png">
+**Algorithm of SpeedODEP:** bacterial distribution on chip can be different based on their antibiotic susceptibility characteristics.
