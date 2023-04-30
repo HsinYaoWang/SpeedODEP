@@ -16,6 +16,7 @@ Keywords: antibiotic susceptibility test (AST); Optically induced dielectrophore
 **Algorithm of SpeedODEP:** bacterial distribution on chip can be different based on their antibiotic susceptibility characteristics (resistant (R) or susceptible (S) to antibiotics).
 
 # Video clips
+**Analyzing Resistant bac on chip**
 [![Resistant bac strain](https://img.youtube.com/vi/k0gWXdLWl2g/0.jpg)](https://youtu.be/k0gWXdLWl2g)
-
+**Analyzing Susceptible bac on chip**
 [![Susceptible bac strain](https://img.youtube.com/vi/yDGF1HArYlY/0.jpg)](https://youtu.be/yDGF1HArYlY)
